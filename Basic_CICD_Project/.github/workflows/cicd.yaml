@@ -1,4 +1,4 @@
-name = CICD for Dockerised Flask App
+name: CICD for Dockerised Flask App
 
 on:
   push:
